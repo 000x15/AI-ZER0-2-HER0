@@ -1,6 +1,6 @@
 # AI ZER0 2 HERO
 
-![[image.jpg|294]]
+![[image.jpg]]
 
 
 
