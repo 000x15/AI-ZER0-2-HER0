@@ -1,6 +1,8 @@
 # AI ZER0 2 HERO
 
-<img src="image.jpg" width="200" align="center">
+<p align="center">
+  <img src="assets/banner.png" width="200">
+</p>
 
 
 
