@@ -1,6 +1,6 @@
 # AI ZER0 2 HERO
 
-![[image.jpg]]
+<img src="image.jpg" width="800">
 
 
 
