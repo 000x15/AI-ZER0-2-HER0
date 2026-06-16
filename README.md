@@ -1,5 +1,10 @@
 # AI ZER0 2 HERO
 
+![[image.jpg|294]]
+
+
+
+
 Welcome to the definitive self-study textbook: **"AI ZER0 2 HER0 (2026 Edition)"**. 
 
 This course is designed for technically minded students, software engineers, systems architects, and curious professionals with no prior formal background in artificial intelligence. It starts from first principles and progresses systematically to advanced system designs, deployment architectures, local AI orchestration, and security vectors current to mid-2026.
